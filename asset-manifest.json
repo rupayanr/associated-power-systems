@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/associated-power-systems/static/css/main.58d6d232.chunk.css",
+    "main.js": "/associated-power-systems/static/js/main.1c045702.chunk.js",
+    "main.js.map": "/associated-power-systems/static/js/main.1c045702.chunk.js.map",
+    "runtime-main.js": "/associated-power-systems/static/js/runtime-main.4d22800b.js",
+    "runtime-main.js.map": "/associated-power-systems/static/js/runtime-main.4d22800b.js.map",
+    "static/js/2.4d25912e.chunk.js": "/associated-power-systems/static/js/2.4d25912e.chunk.js",
+    "static/js/2.4d25912e.chunk.js.map": "/associated-power-systems/static/js/2.4d25912e.chunk.js.map",
+    "static/js/3.9c94c5dc.chunk.js": "/associated-power-systems/static/js/3.9c94c5dc.chunk.js",
+    "static/js/3.9c94c5dc.chunk.js.map": "/associated-power-systems/static/js/3.9c94c5dc.chunk.js.map",
+    "index.html": "/associated-power-systems/index.html",
+    "static/css/main.58d6d232.chunk.css.map": "/associated-power-systems/static/css/main.58d6d232.chunk.css.map",
+    "static/js/2.4d25912e.chunk.js.LICENSE.txt": "/associated-power-systems/static/js/2.4d25912e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/associated-power-systems/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d22800b.js",
+    "static/js/2.4d25912e.chunk.js",
+    "static/css/main.58d6d232.chunk.css",
+    "static/js/main.1c045702.chunk.js"
+  ]
+}
