@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/associated-power-systems/static/css/main.58d6d232.chunk.css",
-    "main.js": "/associated-power-systems/static/js/main.0b0de20d.chunk.js",
-    "main.js.map": "/associated-power-systems/static/js/main.0b0de20d.chunk.js.map",
-    "runtime-main.js": "/associated-power-systems/static/js/runtime-main.4d22800b.js",
-    "runtime-main.js.map": "/associated-power-systems/static/js/runtime-main.4d22800b.js.map",
-    "static/js/2.b4fe8bde.chunk.js": "/associated-power-systems/static/js/2.b4fe8bde.chunk.js",
-    "static/js/2.b4fe8bde.chunk.js.map": "/associated-power-systems/static/js/2.b4fe8bde.chunk.js.map",
-    "static/js/3.9c94c5dc.chunk.js": "/associated-power-systems/static/js/3.9c94c5dc.chunk.js",
-    "static/js/3.9c94c5dc.chunk.js.map": "/associated-power-systems/static/js/3.9c94c5dc.chunk.js.map",
+    "main.css": "/associated-power-systems/static/css/main.6613bdd4.chunk.css",
+    "main.js": "/associated-power-systems/static/js/main.c0081fa8.chunk.js",
+    "main.js.map": "/associated-power-systems/static/js/main.c0081fa8.chunk.js.map",
+    "runtime-main.js": "/associated-power-systems/static/js/runtime-main.fc402368.js",
+    "runtime-main.js.map": "/associated-power-systems/static/js/runtime-main.fc402368.js.map",
+    "static/js/2.5acf84c7.chunk.js": "/associated-power-systems/static/js/2.5acf84c7.chunk.js",
+    "static/js/2.5acf84c7.chunk.js.map": "/associated-power-systems/static/js/2.5acf84c7.chunk.js.map",
+    "static/js/3.45450e3b.chunk.js": "/associated-power-systems/static/js/3.45450e3b.chunk.js",
+    "static/js/3.45450e3b.chunk.js.map": "/associated-power-systems/static/js/3.45450e3b.chunk.js.map",
     "index.html": "/associated-power-systems/index.html",
-    "static/css/main.58d6d232.chunk.css.map": "/associated-power-systems/static/css/main.58d6d232.chunk.css.map",
-    "static/js/2.b4fe8bde.chunk.js.LICENSE.txt": "/associated-power-systems/static/js/2.b4fe8bde.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/associated-power-systems/static/media/logo.6ce24c58.svg"
+    "static/css/main.6613bdd4.chunk.css.map": "/associated-power-systems/static/css/main.6613bdd4.chunk.css.map",
+    "static/js/2.5acf84c7.chunk.js.LICENSE.txt": "/associated-power-systems/static/js/2.5acf84c7.chunk.js.LICENSE.txt",
+    "static/media/hero-image.4a4eb84c.jpg": "/associated-power-systems/static/media/hero-image.4a4eb84c.jpg",
+    "static/media/logo.8ab1b2f5.jpeg": "/associated-power-systems/static/media/logo.8ab1b2f5.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d22800b.js",
-    "static/js/2.b4fe8bde.chunk.js",
-    "static/css/main.58d6d232.chunk.css",
-    "static/js/main.0b0de20d.chunk.js"
+    "static/js/runtime-main.fc402368.js",
+    "static/js/2.5acf84c7.chunk.js",
+    "static/css/main.6613bdd4.chunk.css",
+    "static/js/main.c0081fa8.chunk.js"
   ]
 }
