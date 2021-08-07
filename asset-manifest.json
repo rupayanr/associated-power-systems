@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/associated-power-systems/static/css/main.537c29b2.chunk.css",
-    "main.js": "/associated-power-systems/static/js/main.b7c254bf.chunk.js",
-    "main.js.map": "/associated-power-systems/static/js/main.b7c254bf.chunk.js.map",
+    "main.js": "/associated-power-systems/static/js/main.cffd92ff.chunk.js",
+    "main.js.map": "/associated-power-systems/static/js/main.cffd92ff.chunk.js.map",
     "runtime-main.js": "/associated-power-systems/static/js/runtime-main.7b8d2140.js",
     "runtime-main.js.map": "/associated-power-systems/static/js/runtime-main.7b8d2140.js.map",
     "static/js/2.6a419849.chunk.js": "/associated-power-systems/static/js/2.6a419849.chunk.js",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.7b8d2140.js",
     "static/js/2.6a419849.chunk.js",
     "static/css/main.537c29b2.chunk.css",
-    "static/js/main.b7c254bf.chunk.js"
+    "static/js/main.cffd92ff.chunk.js"
   ]
 }
