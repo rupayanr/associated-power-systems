@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/associated-power-systems/static/css/main.537c29b2.chunk.css",
-    "main.js": "/associated-power-systems/static/js/main.c96e9acb.chunk.js",
-    "main.js.map": "/associated-power-systems/static/js/main.c96e9acb.chunk.js.map",
+    "main.js": "/associated-power-systems/static/js/main.0b952a0e.chunk.js",
+    "main.js.map": "/associated-power-systems/static/js/main.0b952a0e.chunk.js.map",
     "runtime-main.js": "/associated-power-systems/static/js/runtime-main.7b8d2140.js",
     "runtime-main.js.map": "/associated-power-systems/static/js/runtime-main.7b8d2140.js.map",
-    "static/js/2.6a419849.chunk.js": "/associated-power-systems/static/js/2.6a419849.chunk.js",
-    "static/js/2.6a419849.chunk.js.map": "/associated-power-systems/static/js/2.6a419849.chunk.js.map",
+    "static/js/2.bc0e3d36.chunk.js": "/associated-power-systems/static/js/2.bc0e3d36.chunk.js",
+    "static/js/2.bc0e3d36.chunk.js.map": "/associated-power-systems/static/js/2.bc0e3d36.chunk.js.map",
     "static/js/3.57799c07.chunk.js": "/associated-power-systems/static/js/3.57799c07.chunk.js",
     "static/js/3.57799c07.chunk.js.map": "/associated-power-systems/static/js/3.57799c07.chunk.js.map",
     "index.html": "/associated-power-systems/index.html",
     "static/css/main.537c29b2.chunk.css.map": "/associated-power-systems/static/css/main.537c29b2.chunk.css.map",
-    "static/js/2.6a419849.chunk.js.LICENSE.txt": "/associated-power-systems/static/js/2.6a419849.chunk.js.LICENSE.txt",
+    "static/js/2.bc0e3d36.chunk.js.LICENSE.txt": "/associated-power-systems/static/js/2.bc0e3d36.chunk.js.LICENSE.txt",
     "static/media/Frame 1.4966be39.png": "/associated-power-systems/static/media/Frame 1.4966be39.png",
     "static/media/Power-OM.fb083d8e.jpg": "/associated-power-systems/static/media/Power-OM.fb083d8e.jpg",
     "static/media/Proj1.c576d76a.jpg": "/associated-power-systems/static/media/Proj1.c576d76a.jpg",
@@ -25,7 +25,7 @@
     "static/media/earthing_electrode.ae90d26b.jpg": "/associated-power-systems/static/media/earthing_electrode.ae90d26b.jpg",
     "static/media/hero-image.4a4eb84c.jpg": "/associated-power-systems/static/media/hero-image.4a4eb84c.jpg",
     "static/media/light.b98a4478.png": "/associated-power-systems/static/media/light.b98a4478.png",
-    "static/media/lightning-protection.1894347b.jpg": "/associated-power-systems/static/media/lightning-protection.1894347b.jpg",
+    "static/media/lightning.876e9a40.jpg": "/associated-power-systems/static/media/lightning.876e9a40.jpg",
     "static/media/mukul.95080226.png": "/associated-power-systems/static/media/mukul.95080226.png",
     "static/media/solar-panel.54576cfe.jpg": "/associated-power-systems/static/media/solar-panel.54576cfe.jpg",
     "static/media/solar-parking-canopy.4ad8ba91.jpg": "/associated-power-systems/static/media/solar-parking-canopy.4ad8ba91.jpg",
@@ -37,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7b8d2140.js",
-    "static/js/2.6a419849.chunk.js",
+    "static/js/2.bc0e3d36.chunk.js",
     "static/css/main.537c29b2.chunk.css",
-    "static/js/main.c96e9acb.chunk.js"
+    "static/js/main.0b952a0e.chunk.js"
   ]
 }
